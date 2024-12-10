@@ -5,7 +5,7 @@ const canvasC = document.getElementById('c');
 
 const config = {
   birthdate: ' November 1, 2024',
-  name: '  Kyi Pyar'
+  name: '  Ei Yadanar Phyoe'
 };
 
 function hideEverything() {
