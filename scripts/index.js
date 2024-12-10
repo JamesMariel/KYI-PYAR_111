@@ -5,7 +5,7 @@ const canvasC = document.getElementById('c');
 
 const config = {
   birthdate: ' November 11, 2024',
-  name: '  Ei Yadanar Phyoe '
+  name: 'Ei Yadanar Phyoe <Ah Khat>'
 };
 
 function hideEverything() {
@@ -48,7 +48,7 @@ x = setInterval(function() {
     hw = w / 2, // half-width
     hh = h / 2,
     opts = {
-      strings: ['HAPPY', ' Birthday!', ' ', config.name, ' ', 'Wish', 'You', 'All', 'the Best' , 'Amyar kyi' , 'Chit sayar kg*_*', 'po Hla' , 'lr pa say^_^'],
+      strings: ['HAPPY', ' Birthday!', ' ', config.name, ' ', 'Wish', 'You', 'All', 'the Best', ' ', 'Amyar kyi' , 'Chit sayar kg*_*', 'po Hla' , 'lr pa say^_^'],
       charSize: 25,
       charSpacing: 20,
       lineHeight: 35,
